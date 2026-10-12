@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/a2wtech-banner.svg" width="100%" alt="A2WTech — A to W Digital Solutions | Software, Web & Mobile Engineering" />
+<img src="assets/a2wtech-banner.svg.png" width="100%" alt="A2WTech — A to W Digital Solutions | Software, Web & Mobile Engineering" />
 
 ### Technology that works for your business.
 
